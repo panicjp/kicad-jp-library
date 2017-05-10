@@ -1,0 +1,308 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2PB709AR
+D Vce:-45V, Ic:-100mA, PNP, Small Signal Transistor, SC-59
+K 2PB709AR PNP Transistor AKIZUKI I-02232
+F http://akizukidenshi.com/catalog/g/gI-02232/
+$ENDCMP
+#
+$CMP 2PD601AR
+D Vce:50V, Ic:100mA, NPN, Small Signal Transistor, SC-59
+K 2PD601AR NPN Transistor AKIZUKI I-02231
+F http://akizukidenshi.com/catalog/g/gI-02231/
+$ENDCMP
+#
+$CMP 2SA1037AK
+D Vce:-50V, Vcb:-60V, Ic:-0.15A, Pc:0.2W, PNP, Small Signal Transistor, SC-59
+K 2SA1037AK PNP Transistor AKIZUKI I-05248
+F http://akizukidenshi.com/catalog/g/gI-05248/
+$ENDCMP
+#
+$CMP 2SA1162
+D Vce:-50V, Ic:-150mA, PNP, Small Signal Transistor, 3
+K 2SA1162 PNP Transistor AKIZUKI I-02702
+F http://akizukidenshi.com/catalog/g/gI-02702/
+$ENDCMP
+#
+$CMP 2SA1298
+D Vce:-30V, Ic:-800mA, PNP, Small Signal Transistor, SC-59
+K 2SA1298 PNP Transistor AKIZUKI I-08447
+F http://akizukidenshi.com/catalog/g/gI-08447/
+$ENDCMP
+#
+$CMP 2SA1312
+D Vce:-120V, Ic:-100mA, PNP, Small Signal Transistor, SC-59
+K 2SA1312 PNP Transistor AKIZUKI I-09370
+F http://akizukidenshi.com/catalog/g/gI-09370/
+$ENDCMP
+#
+$CMP 2SA1313
+D Vce:-50V, Ic=-400mA, PNP, Small Signal Transistor, SC-59
+K 2SA1313 PNP Transistor AKIZUKI I-05554
+F http://akizukidenshi.com/catalog/g/gI-05554/
+$ENDCMP
+#
+$CMP 2SA1576A
+D Vce:-50V, Vcb:-60V, Ic:-0.15A, Pc:0.2W, PNP, Small Signal Transistor, SOT-323_SC-70
+K 2SA1576A PNP Transistor AKIZUKI I-05935
+F http://akizukidenshi.com/catalog/g/gI-05935/
+$ENDCMP
+#
+$CMP 2SA1586
+D Vce:-50V, Ic:-150mA, PNP, Small Signal Transistor, SOT-323_SC-70
+K 2SA1586 PNP Transistor AKIZUKI I-02707
+F http://akizukidenshi.com/catalog/g/gI-02707/
+$ENDCMP
+#
+$CMP 2SA2029
+D PNP, Small Signal Transistor, VMT3
+K 2SA2029 PNP Transistor AKIZUKI I-05921
+F http://akizukidenshi.com/catalog/g/gI-05921/
+$ENDCMP
+#
+$CMP 2SB1181
+D Vcesat, Vcb:-80V, Ic:-1A, Pc:1W, PNP, Small Signal Transistor, SC-62, SOT89-3
+K 2SB1181 PNP Transistor AKIZUKI I-05943
+F http://akizukidenshi.com/catalog/g/gI-05943/
+$ENDCMP
+#
+$CMP 2SB1188T100Q
+D Ic/IB=2A/0.2A, PNP, Small Signal Transistor, SC-62, SOT89-3
+K 2SB1188T100Q PNP Transistor AKIZUKI I-05917
+F http://akizukidenshi.com/catalog/g/gI-05917/
+$ENDCMP
+#
+$CMP 2SB1203
+D Vce:-50V, Vcb:-60V, Ic:-5A, Pc:1W/20WTc=25, PNP, Small Signal Transistor,  SC-63, TO-252-3
+K 2SB1203 PNP Transistor AKIZUKI I-06602
+F http://akizukidenshi.com/catalog/g/gI-06602/
+$ENDCMP
+#
+$CMP 2SB1260
+D Vcesat, Vcb:-80V, Ic:-1A, Pc:0.5W, PNP, Small Signal Transistor, SC-62, SOT89-3
+K 2SB1260 PNP Transistor AKIZUKI I-05947
+F http://akizukidenshi.com/catalog/g/gI-05947/
+$ENDCMP
+#
+$CMP 2SB1275
+D Vce:-160V, PNP, Small Signal Transistor, SC-63, TO-252-3
+K 2SB1275 PNP Transistor AKIZUKI I-05941
+F http://akizukidenshi.com/catalog/g/gI-05941/
+$ENDCMP
+#
+$CMP 2SB1694T106
+D Ic=-500mA/ IB=-25mA, PNP, Small Signal Transistor, SC-70,  SOT-323_SC-70
+K 2SB1694T106 PNP Transistor AKIZUKI I-05919
+F http://akizukidenshi.com/catalog/g/gI-05919/
+$ENDCMP
+#
+$CMP 2SC2412K
+D NPN, Small Signal Transistor, SC-59
+K 2SC2412 NPN Transistor AKIZUKI I-05931
+F http://akizukidenshi.com/catalog/g/gI-05931/
+$ENDCMP
+#
+$CMP 2SC2712
+D Vce:50V, Ic:150mA, NPN, Small Signal Transistor, SC-59
+K 2SC2712 NPN Transistor AKIZUKI I-00761
+F http://akizukidenshi.com/catalog/g/gI-00761/
+$ENDCMP
+#
+$CMP 2SC3110
+D Ic 30mA, NPN, Small Signal Transistor, SC-59
+K 2SC3110 NPN Transistor AKIZUKI I-03014
+F http://akizukidenshi.com/catalog/g/gI-03014/
+$ENDCMP
+#
+$CMP 2SC3265
+D Vce:30V, Ic:800mA, NPN, Small Signal Transistor, SC-59
+K 2SC3265 NPN Transistor AKIZUKI I-08448
+F http://akizukidenshi.com/catalog/g/gI-08448/
+$ENDCMP
+#
+$CMP 2SC3324
+D Vce:120V, Ic:100mA, NPN, Small Signal Transistor, SC-59
+K 2SC3324 NPN Transistor AKIZUKI I-09372
+F http://akizukidenshi.com/catalog/g/gI-09372/
+$ENDCMP
+#
+$CMP 2SC3325
+D Vce:50V, Ic:500mA, NPN, Small Signal Transistor, SC-59
+K 2SC3325 NPN Transistor AKIZUKI I-00628
+F http://akizukidenshi.com/catalog/g/gI-00628/
+$ENDCMP
+#
+$CMP 2SC3356
+D Vce:12V, Vcb:20V, Ic:0.1A, Pc:0.2W, NPN, Small Signal Transistor, 
+K 2SC3356 NPN Transistor AKIZUKI I-11316
+F http://akizukidenshi.com/catalog/g/gI-11316/
+$ENDCMP
+#
+$CMP 2SC3357
+D Vce:12V, Vcb:20V, Ic=7mAf=1GHz, NPN, RF Transistor, SOT89-3
+K 2SC3357 NPN Transistor AKIZUKI I-11278
+F http://akizukidenshi.com/catalog/g/gI-11278/
+$ENDCMP
+#
+$CMP 2SC4081
+D NPN, Small Signal Transistor, 
+K 2SC4081 NPN Transistor AKIZUKI I-05933, SC-59
+F http://akizukidenshi.com/catalog/g/gI-05933/
+$ENDCMP
+#
+$CMP 2SC4116
+D Vce:50V, Ic:150mA, NPN, Small Signal Transistor, SC-70, SOT-323_SC-70
+K 2SC4116 NPN Transistor AKIZUKI I-02705
+F http://akizukidenshi.com/catalog/g/gI-02705/
+$ENDCMP
+#
+$CMP 2SC4703
+D Vce:12V, Vcb:25V, Ic:150mA, NPN, Small Signal Transistor, SOT89-3
+K 2SC4703 NPN Transistor AKIZUKI I-06292
+F http://akizukidenshi.com/catalog/g/gI-06292/
+$ENDCMP
+#
+$CMP 2SC4713K
+D Vce:6V, Vcb:12V, Ic:50mA, Pc:0.2W, NPN, Small Signal Transistor, SC-59
+K 2SC4713KT146S NPN Transistor AKIZUKI I-05937
+F http://akizukidenshi.com/catalog/g/gI-05937/
+$ENDCMP
+#
+$CMP 2SC5066
+D Vce=12V, Ic=30mA, NPN, Small Signal Transistor, SC-59
+K 2SC5066 NPN Transistor AKIZUKI I-09995
+F http://akizukidenshi.com/catalog/g/gI-09995/
+$ENDCMP
+#
+$CMP 2SC5086
+D Vce=12V, Ic=80mA, NPN, Small Signal Transistor, 
+K 2SC5086 NPN Transistor AKIZUKI I-10033
+F http://akizukidenshi.com/catalog/g/gI-10033/
+$ENDCMP
+#
+$CMP 2SCR533P
+D Vcb:50V, Ic/IB=1A/50mA, NPN, Small Signal Transistor,  SOT89-3
+K 2SCR533P NPN Transistor AKIZUKI I-05955
+F http://akizukidenshi.com/catalog/g/gI-05955/
+$ENDCMP
+#
+$CMP 2SD1484K
+D Vce:50V, Vcb:50V, Ic:0.5A, NPN, Small Signal Transistor, SOT-323_SC-70
+K 2SD1484K NPN Transistor AKIZUKI I-05929
+F http://akizukidenshi.com/catalog/g/gI-05929/
+$ENDCMP
+#
+$CMP 2SD1781K
+D Vce:32V, Ic:0.8A, NPN, Small Signal Transistor, SC-59
+K 2SD1781K NPN Transistor AKIZUKI I-05925
+F http://akizukidenshi.com/catalog/g/gI-05925/
+$ENDCMP
+#
+$CMP 2SD1980TL
+D Ic:2A, Pc:1W, NPN, Small Signal Transistor, SC-63, TO-252-3
+K 2SD1980TL NPN Transistor AKIZUKI I-05939
+F http://akizukidenshi.com/catalog/g/gI-05939/
+$ENDCMP
+#
+$CMP 2SD2704K
+D Vce:20V, Vcb:50V, Ic:0.3A, Pc0.2W, NPN, Small Signal Transistor, SC-59
+K 2SD2704K NPN Transistor AKIZUKI I-06007
+F http://akizukidenshi.com/catalog/g/gI-06007/
+$ENDCMP
+#
+$CMP MMBT3904
+D Vce:40V, Vcb:60V, Ic:200mA, NPN, Small Signal Transistor, 2N3904, SOT-23
+K MMBT3904 NPN Transistor AKIZUKI I-05969
+F http://akizukidenshi.com/catalog/g/gI-05969/
+$ENDCMP
+#
+$CMP MMBT3906
+D Vce:40V, Vcb:40V, Ic:200mA, PNP, Small Signal Transistor, 2N3906, SOT-23
+K MMBT3906 PNP Transistor AKIZUKI I-05967
+F http://akizukidenshi.com/catalog/g/gI-05967/
+$ENDCMP
+#
+$CMP NPN-BCE-SOT89
+D NPN BCE SOT89 Package
+K NPN, Small Signal Transistor
+$ENDCMP
+#
+$CMP NPN-BCE-TO252
+D NPN BCE TO252 Package
+K NPN, Small Signal Transistor
+$ENDCMP
+#
+$CMP NPN-BEC-SC59
+D NPN BEC SC-59 Package
+K NPN, Small Signal Transistor
+$ENDCMP
+#
+$CMP NPN-BEC-SOT23
+D NPN BEC SOT-23 Package
+K NPN, Small Signal Transistor
+$ENDCMP
+#
+$CMP NPN-BEC-SOT323_SC-70
+D NPN BEC SC-70 Package
+K NPN, Small Signal Transistor
+$ENDCMP
+#
+$CMP NPN-BEC-SOT89
+D NPN BEC SOT-89 Package
+K NPN, Small Signal Transistor
+$ENDCMP
+#
+$CMP PNP-BCE-SOT89
+D PNP BCE SOT89 Package
+K PNP, Small Signal Transistor
+$ENDCMP
+#
+$CMP PNP-BCE-TO252
+D PNP BCE TO252 Package
+K PNP, Small Signal Transistor
+$ENDCMP
+#
+$CMP PNP-BEC-SC59
+D PNP BEC SC-59 Package
+K PNP, Small Signal Transistor
+$ENDCMP
+#
+$CMP PNP-BEC-SOT23
+D PNP BEC SOT-23 Package
+K PNP, Small Signal Transistor
+$ENDCMP
+#
+$CMP PNP-BEC-SOT323_SC-70
+D PNP BEC SC-70 Package
+K PNP, Small Signal Transistor
+$ENDCMP
+#
+$CMP PNP-BEC-SOT89
+D PNP BEC SOT-89 Package
+K PNP, Small Signal Transistor
+$ENDCMP
+#
+$CMP PNP-ECB-SOT89
+D PNP ECB SOT-89 Package
+K PNP, Small Signal Transistor
+$ENDCMP
+#
+$CMP RN5006
+D Vcb:10V, IcDC:2A, NPN, Small Signal Transistor, SC-62, SOT89-3
+K RN5006 NPN Transistor AKIZUKI I-10796
+F http://akizukidenshi.com/catalog/g/gI-10796/
+$ENDCMP
+#
+$CMP RT1P137P
+D Vce:-40V, Vcb:-40V, Ic=1A, Pc=500mW, PNP, Small Signal Transistor, SC-62, SOT89-3
+K RT1P137P PNP Transistor AKIZUKI I-10798 SOT-89
+F http://akizukidenshi.com/catalog/g/gI-10798/
+$ENDCMP
+#
+$CMP TTC014
+D Vce=800VVcb=900V, Vcb=900V, Ic=0.1A, NPN, Small Signal Transistor, New PW-Mold
+K TTC014 NPN Transistor AKIZUKI I-10231
+F http://akizukidenshi.com/catalog/g/gI-10231/
+$ENDCMP
+#
+#End Doc Library
