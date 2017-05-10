@@ -1,5 +1,4 @@
 var client = require('cheerio-httpcli');
-process.env.HTTP_PROXY = 'http://192.168.122.99:3128';
 var items = [] ;
 
 function getItemName( text ){
