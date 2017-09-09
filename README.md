@@ -37,4 +37,4 @@ CC-BY-SAです。ご自由にご利用ください。
 
 These codes are licensed under CC-BY-SA.
 
-[![CC-BY-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC-BY-SA")](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC-BY-SA")](http://creativecommons.org/licenses/by-sa/4.0/)
